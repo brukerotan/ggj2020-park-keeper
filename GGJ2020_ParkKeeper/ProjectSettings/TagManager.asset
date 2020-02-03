@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objeto
+  - fogo
+  - consertar
+  - vomito
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objeto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 2675298125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Atracoes
+    uniqueID: 363286477
+    locked: 0
+  - name: Desastres
+    uniqueID: 1127834763
+    locked: 0
+  - name: Player
+    uniqueID: 3985026421
+    locked: 0
+  - name: FX
+    uniqueID: 3566113167
+    locked: 0
